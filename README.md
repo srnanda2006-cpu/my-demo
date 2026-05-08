@@ -1,3 +1,4 @@
 # my-demo
 this is my first repository
-Author - nandan
+<br>
+Author - Nandan S R
